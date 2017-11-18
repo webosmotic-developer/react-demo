@@ -1,0 +1,9 @@
+:local(.addFriendInput) {
+  border-radius: 0;
+  border-color: #ABAAAA;
+  border-left: 0;
+  border-right: 0;
+}
+:local(.addFriendInput:focus){
+  border-color:#465f7a !important;
+}
